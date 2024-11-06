@@ -1,0 +1,21 @@
+
+.samodzielny-tekst {
+    margin: 20px; 
+    font-size: 18px;
+    color: #333;
+}
+
+
+.tekst-w-p {
+    padding: 15px; 
+    font-size: 16px;
+    background-color: #f0f0f0;
+}
+
+
+.tekst-w-div {
+    margin: 30px; 
+    padding: 20px; 
+    background-color: #d3d3d3;
+    font-size: 14px;
+}
